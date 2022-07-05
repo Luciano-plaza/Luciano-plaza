@@ -13,7 +13,7 @@
 - Actualmente estoy terminando el Bootcamp de Henry puliendo skills y profundizando mis conocimientos
 
 ## :rocket: My Projects
-- Your Job
+- Ingresa al repo [Aquí](https://github.com/Luciano-plaza/Your-Job) o al deployment [Aquí](http://your-job-seven.vercel.app)
 <br/>
 <div style={display:flex}>
 <img height='130' src='./Images/imagePF1.jpeg'>
