@@ -13,7 +13,15 @@
 - Actualmente estoy terminando el Bootcamp de Henry puliendo skills y profundizando mis conocimientos
 
 ## :rocket: My Projects
-
+- Your Job
+<br/>
+<img height='150' src='./Images/imagePF1.jpeg'>
+<img height='150' src='./Images/imagePF2.jpeg'>
+<img height='150' src='./Images/imagePF3.jpeg'>
+<img height='150' src='./Images/imagePF4.jpeg'>
+<img height='150' src='./Images/imagePF5.jpeg'>
+<img height='150' src='./Images/imagePF6.jpeg'>
+<img height='150' src='./Images/imagePF7.jpeg'>
 
 ## :desktop_computer: Technologies
 - Scrum
