@@ -10,7 +10,7 @@
 - Trabajé en un bar asistiendo las necesidades de clientes, compañeros y superiores; de ahí saqué mi proactividad, resolución de problemas y coordinación.
 - Trabajé en emprendimientos varios con amigos; de ahí saqué mi creatividad, perseverancia y pensamiento lógico.
 - Trabajé como vendedor de productos para el hogar; de ahí saqué mi organización, comunicación y empatía.
-- Actualmente estoy terminando el Bootcamp de Henry puliendo skills y profundizando mis conocimientos
+- Actualmente estoy graduado del Bootcamp de Henry puliendo skills y profundizando mis conocimientos en tecnologías como: MongoDB, Next.js, 
 
 ## :rocket: My Projects
 - Ingresa al repo [Aquí](https://github.com/Luciano-plaza/Your-Job) o al deployment [Aquí](http://your-job-seven.vercel.app)
