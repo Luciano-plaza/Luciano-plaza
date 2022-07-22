@@ -24,20 +24,9 @@
 ## :desktop_computer: Technologies
 - Scrum
 - NPM
-- Backend
-  - Node.js
-  - Express
-  - Sequelize
-  - Postman
-  - REST
-- Database
-  - PostgreSQL
-  - SQL
-- Frontend
-  - React
-  - Redux
-  - HTML5
-  - CSS3
+- __Backend:__ Node.js, Express, Sequelize, Postman, REST API
+- __Database:__ PostgreSQL, SQL
+- __Frontend:__ React, Redux, HTML5, CSS3
 
 ### :telephone_receiver::email: __Contáctame:__
 - __CEL:__ +54 3812061436
