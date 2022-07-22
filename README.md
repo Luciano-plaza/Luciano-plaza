@@ -17,9 +17,6 @@
 <br/>
 <div style={display:flex}>
 <img height='130' src='./Images/imagePF1.jpeg'>
-<img height='130' src='./Images/imagePF2.jpeg'>
-<img height='130' src='./Images/imagePF3.jpeg'>
-<img height='130' src='./Images/imagePF4.jpeg'>
 <img height='130' src='./Images/imagePF6.jpeg'>
 <img height='130' src='./Images/imagePF7.jpeg'>
 </div>
