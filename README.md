@@ -29,7 +29,7 @@
 
 ## :books: Learning
 - __Tools:__ Vite, Docker, Kubernetes, Jest.
-- __Backend:__ Rust, Python, Deno.
+- __Backend:__ Python, Deno.
 - __Database:__ MongoDB.
 - __Frontend:__ Next.js.
 
