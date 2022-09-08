@@ -22,8 +22,8 @@
 </div>
   
 ## :desktop_computer: Technologies
-- __Tools:__ NPM, Scrum.
-- __Backend:__ Node.js, Express, Sequelize, Postman, REST API.
+- __Tools:__ NPM,Postman, Scrum.
+- __Backend:__ Node.js, Express, Sequelize, REST API.
 - __Database:__ PostgreSQL, SQL.
 - __Frontend:__ React, Redux, HTML5, CSS3.
 
