@@ -13,12 +13,10 @@
 - Actualmente estoy graduado del Bootcamp de Henry puliendo skills y profundizando mis conocimientos en tecnologías como: MongoDB, Next.js, 
 
 ## :rocket: My Projects
-- Ingresa al repo [Aquí](https://github.com/Luciano-plaza/Your-Job) o al deployment [Aquí](http://your-job-seven.vercel.app)
-<br/>
-<div style={display:flex}>
-<img height='130' src='./Images/imagePF1.jpeg'>
-</div>
-  
+- __YourJob:__ Ingresa al repo [Aquí](https://github.com/Luciano-plaza/Your-Job) o al deployment [Aquí](http://your-job-seven.vercel.app)
+- __Foodies:__ Ingresa al repo [Aquí](https://github.com/Luciano-plaza/PI-FOOD) o al deployment [Aquí](https://pi-food-liard.vercel.app)
+
+
 ## :desktop_computer: Technologies
 - __Tools:__ NPM,Postman, Scrum.
 - __Backend:__ Node.js, Express, Sequelize, REST API.
