@@ -24,8 +24,8 @@
 - __Frontend:__ React, Redux, HTML5, CSS3.
 
 ## :books: Learning
-- __Tools:__ Vite, Docker, Kubernetes, Jest.
-- __Backend:__ Python, Deno.
+- __Tools:__ Vite, Docker, Kubernetes.
+- __Backend:__ Deno.
 - __Database:__ MongoDB.
 - __Frontend:__ Next.js.
 
