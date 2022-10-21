@@ -1,7 +1,7 @@
 ![huge](https://user-images.githubusercontent.com/95538929/177406022-2a845e5c-d3b2-4c86-ab2f-0ebb2b4bac25.gif)
 
 # :boy: ¿Who I am? :argentina:
-:large_orange_diamond: Desarrollador Full Stack Web Developer en JavaScript orientado al Front-End pero adaptable a las necesidades del equipo, con la capacidad y proactividad para proyectos escalables y modularizados donde siempre se aprenda de los procesos y resultados.
+:large_orange_diamond: Desarrollador Full Stack Web Developer en JavaScript orientado al Front-End pero adaptable a las necesidades del equipo, con la capacidad y proactividad para proyectos escalables y modularizados donde siempre se aprenda de los procesos y resultados. Si querés conocerme más te invito a pasar por mi [Portfolio](hhtps://luciano-plaza.vercel.app)
 
 ## :man_student: ¿Why me?
 :large_blue_diamond: De Henry Bootcamp a quien le debo mis conocimientos y ganas de un aprendizaje continuo; salimos con altas habilidades técnicas, con ganas de superarnos, impulsar nuestro entorno, complementar y orientar al equipo; tuve la oportunidad de liderar a un equipo en el proyecto final del cursado mejorando mis Soft Skills.
