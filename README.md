@@ -25,7 +25,7 @@
 
 ## :books: Learning
 - __Tools:__ Docker, Kubernetes.
-- __Backend:__ Nest, Deno,.
+- __Backend:__ Nestjs, Deno,.
 - __Database:__ MongoDB.
 - __Frontend:__ Next.js.
 
