@@ -18,14 +18,14 @@
 
 
 ## :desktop_computer: Technologies
-- __Tools:__ NPM,Postman, Scrum.
+- __Tools:__ NPM, Postman, Vite, Scrum.
 - __Backend:__ Node.js, Express, Sequelize, REST API.
 - __Database:__ PostgreSQL, SQL.
 - __Frontend:__ React, Redux, HTML5, CSS3.
 
 ## :books: Learning
-- __Tools:__ Vite, Docker, Kubernetes.
-- __Backend:__ Deno.
+- __Tools:__ Docker, Kubernetes.
+- __Backend:__ Nest, Deno,.
 - __Database:__ MongoDB.
 - __Frontend:__ Next.js.
 
